@@ -1,0 +1,49 @@
+_repo: The-Jumble-BookA-Jumble-of-Good-Things_42162
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Peake, Harvey
+    gutenberg_agent_id: '41555'
+    url: http://www.gutenberg.org/2009/agents/41555
+  - agent_name: Kirk, Maria Louise
+    aliases:
+    - Kirk, M. L. (Maria Louise)
+    - Kirk, Maria L.
+    birthdate: 1860
+    gutenberg_agent_id: '9513'
+    url: http://www.gutenberg.org/2009/agents/9513
+  - agent_name: Babcock, Elizabeth Jones
+    alias: Babcock, E. J. (Elizabeth Jones)
+    birthdate: 1887
+    deathdate: 1963
+    gutenberg_agent_id: '35898'
+    url: http://www.gutenberg.org/2009/agents/35898
+  - agent_name: Aspell, S.
+    gutenberg_agent_id: '41554'
+    url: http://www.gutenberg.org/2009/agents/41554
+covers:
+- cover_type: archival
+  image_path: 42162-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cory, David
+    alias: Cory, David Magie
+    birthdate: 1872
+    deathdate: 1966
+    gutenberg_agent_id: '871'
+    url: http://www.gutenberg.org/2009/agents/871
+description: ''
+gutenberg_issued: '2013-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42162'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s poetry'
+- !lcsh 'Children''s stories'
+title: 'The Jumble Book: A Jumble of Good Things'
+url: http://www.gutenberg.org/ebooks/42162
